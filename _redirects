@@ -1,0 +1,3 @@
+# Cloudflare Pages SPA Routing
+# Redireciona todas as rotas para o index.html mantendo status 200
+/*    /index.html   200
